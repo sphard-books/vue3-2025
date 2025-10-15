@@ -119,8 +119,8 @@ const config: Config = {
               href: "https://www.youtube.com/sphard",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/darrenliuwei",
+              label: "X",
+              href: "https://x.com/darrenliuwei",
             },
             {
               label: "Bilibili",
